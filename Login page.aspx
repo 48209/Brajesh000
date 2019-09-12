@@ -19,7 +19,7 @@
         </p>
         <p>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<asp:Button ID="Button1" runat="server" Text="Save" />
-            <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Save & Submit_Bhargav" />
+            <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Save & Submit_Brajesh" />
         </p>
         
     </form>
